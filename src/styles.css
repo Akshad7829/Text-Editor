@@ -1,0 +1,28 @@
+*{
+  margin: auto;
+
+}
+.App-header {
+   background-color: green;
+   min-height: 3vh;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   
+   font-size: 2rem;
+   color: white;
+   margin-bottom: 5vh;
+   text-align: center;
+ }
+ .foot {
+   text-align: center;
+   font-size: 1.5rem;
+   margin-top: 22rem;
+ color: black;
+ }
+ .toolbarClassName{
+   background-color:grey;
+
+
+
+ }
