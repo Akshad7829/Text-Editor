@@ -19,9 +19,9 @@ const App = () => {
   return (
     <div className="App">
        <Text
-    text="Text-Editor"
+    text="Text-Mate"
     showBlink={true}
-    component="h2"
+    component="h1"
     className="App-header"
   />
 
